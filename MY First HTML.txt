@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Resume</title>
+</head>
+<body>
+
+<table align="center" width="45%">
+
+<th bgcolor="0000FF" align="left" width="35%">
+
+
+<center>
+<h1><font size="7px"><i>Dylan Castellanos</i></font></h1>
+</center>
+
+<center>
+	<img src="Itachi.jpg" height="130" width="130" border="2"/>
+</center>
+
+<font size="4px"><p><u>CONTACT</u></font>
+<br>
+<ul>
+	<li><img src="facebook.jpg" alt="Facebook" style="width:15px;height:15px;"><a href="https://www.facebook.com/flowers.dylan.3"> Facebook</a></li>
+	<li><img src="whatsapp.jpg" alt="Whatsapp" style="width:15px;height:15px;"> +501 605-1910</li>
+	<li><img src="gmail.jpg" alt="Gmail" style="width:15px;height:15px;"> 2022156307@ub.edu.bz</br></li>
+</ul>
+
+<font size="5px"><p><u>SKILLS</u></font>
+<br>
+<ul>
+	<li>Computer Repair</li>
+	<li>Computer proficiency</li>
+	<li>Communication Skills</li>
+	<li>Problem solving skills</li>
+	<li>Time management</li>
+</ul>
+
+<font size="4px"><p><u>LANGUAGE</u></font>
+<br>
+<ul>
+	<li>English</li>
+	<li>Creole</li>
+</ul>
+</th>
+
+<th align="left">
+
+<font size="5px"><u>SUMMARY</u></font>
+<ul>
+	Backgorund compter hardware<br>
+
+</ul>
+
+<font size="5px"><u>EXPERIENCE</u></font>
+<ul>
+	Buinding HTML Site<br>
+        Programming with python coding<br>
+</ul>	
+
+<font size="5px"><u>EDUCATION</u></font>
+<ul>
+	HighSchool (June 2022)<br>
+	Business<br>
+	Ocean Academy<br>
+</ul>	
+</th>
+
+</table>
+</body>
+</html
